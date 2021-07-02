@@ -1,0 +1,7 @@
+- Nombre del proyecto : Reporte App
+- Descripción del objetivo del proyecto: 
+El proyecto trata de una página web realizada en Django junto con matplotlib y pandas que trata sobre reportes de ventas, lo que se puede hacer en la parte principal es buscar las ventas en un rango de fechas, el tipo de gráfico con el cual se va a mostrar, por ejemplo, puede ser de barra, circular o linear. Finalmente, da la opción de buscar por transacción o por fecha de venta. 
+Al momento de presionar el botón de buscar nos saldrán los dataframes de pandas con la información del id de ventas, id de transacción, el precio total, el cliente, el vendedor, la fecha cuando fue creada, el producto, la cantidad y el precio. Y una gráfica con el tipo que elegimos basándose en el id de transacción y el precio total. 
+El usuario tiene la opción de crear un reporte donde incluya un título, observaciones y la imagen del gráfico creado. En la parte superior de la barra de navegación podemos ver cómo se ha creado un objeto reporte y podemos descargar su pdf.
+	En la parte de Ventas en la barra de navegación podemos ver la lista de ventas realizadas con su id, podemos visualizar qué productos, la cantidad, el precio y el cliente. Justo después de la parte de ventas se pueden añadir archivos csv para ser analizados y convertidos en pdf. La última parte es el perfil donde podemos subir una fotografía y una biografía.
+- Integrantes: Paul García 
